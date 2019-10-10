@@ -1,0 +1,16 @@
+.navbar-custom
+{
+	font-weight: bold;
+}
+
+.header_custom
+{
+	background-image: url("images/bg1.jpg");
+	height: 900px;
+	background-size: cover;
+}
+
+.header_container
+{
+	height: 350px;
+}
